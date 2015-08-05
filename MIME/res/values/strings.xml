@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, StayInTouchActivity!</string>
+    <string name="app_name">MiMe(If you can)</string>
+    <string name="groupId">Group</string>
+    <string name="groupIdEditText">Enter the group id</string>
+    <string name="rememberMe">Remember Me</string>
+    <string name="connect">Connect</string>
+    <string name="login">Login</string>
+    <string name="Cancel">CANCEL</string>
+</resources>
